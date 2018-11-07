@@ -3,7 +3,8 @@
 def speak_to_grandma(message)
   if message == 'I LOVE YOU GRANDMA!'
     puts 'I LOVE YOU TOO PUMPKIN!'
-  elsif message == message.
+  elsif message == message.upcase
+    puts ''
 end
 
 # Whatever you say to grandma, she should respond with

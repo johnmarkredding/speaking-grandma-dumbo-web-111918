@@ -4,7 +4,10 @@ def speak_to_grandma(message)
   if message == 'I LOVE YOU GRANDMA!'
     puts 'I LOVE YOU TOO PUMPKIN!'
   elsif message == message.upcase
-    puts ''
+    puts 'NO, NOT SINCE 1938!'
+  else
+    
+  end
 end
 
 # Whatever you say to grandma, she should respond with

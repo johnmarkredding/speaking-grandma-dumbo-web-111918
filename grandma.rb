@@ -1,7 +1,9 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma(message)
-  if ()
+  if message == 'I LOVE YOU GRANDMA!'
+    puts 'I LOVE YOU TOO PUMPKIN!'
+  elsif 
 end
 
 # Whatever you say to grandma, she should respond with
